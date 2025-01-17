@@ -1,6 +1,6 @@
-# gh-mage
+# gh-mage 🧙‍♂️
 
-tiny ai agent project to help do github better
+tiny ai agent to help do github better
 
 ## usage
 
@@ -15,13 +15,6 @@ make run
 - [uv](https://docs.astral.sh/uv/#getting-started)
 
 ### init project
-
-```shell
-uv init . --name gh-mage --python 3.12 \
---app --description "tiny ai agent project to help do github better"
-```
-
-### initialise project
 
 ```shell
 make init
