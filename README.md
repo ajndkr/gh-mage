@@ -2,6 +2,12 @@
 
 tiny ai agent project to help do github better
 
+## usage
+
+```shell
+make run
+```
+
 ## getting started
 
 ### pre-requisites
