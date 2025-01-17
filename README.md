@@ -21,10 +21,10 @@ uv init . --name gh-mage --python 3.12 \
 --app --description "tiny ai agent project to help do github better"
 ```
 
-### setup pre-commit
+### initialise project
 
 ```shell
-uv run --only-dev pre-commit install
+make init
 ```
 
 to run pre-commit checks, run:
