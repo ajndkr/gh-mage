@@ -11,7 +11,7 @@ ci:		## run pre-commit checks
 	uv run --only-dev pre-commit run --all
 
 run:	## run project
-	uv run app.py
+	uv run run.py
 
 clean:	## clean project
 	rm -rfv .venv
