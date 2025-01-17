@@ -1,0 +1,9 @@
+[project]
+name = "gh-mage"
+version = "0.1.0"
+description = "tiny ai agent project to help do github better"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+]
