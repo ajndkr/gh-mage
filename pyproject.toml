@@ -11,6 +11,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "ipykernel>=6.29.5",
     "ipython>=8.32.0",
     "pre-commit>=4.0.1",
 ]
