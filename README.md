@@ -1,6 +1,6 @@
 # gh-mage 🧙‍♂️
 
-tiny ai agent to help do github better
+tiny ai scripts to help do github better
 
 ## usage
 
